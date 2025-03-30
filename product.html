@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products | GreenGrow Fertilizer Shop</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <header>
+        <h1>Our Products</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="product.html">Shop</a>
+            <a href="cart.html">Cart</a>
+        </nav>
+    </header>
+
+    <main>
+        <section class="product-list">
+            <div class="product">
+                <img src="images/fertilizer1.jpg" alt="Organic Fertilizer">
+                <h3>Organic Fertilizer</h3>
+                <p>Price: $20</p>
+                <button onclick="addToCart('Organic Fertilizer', 20)">Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="images/fertilizer2.jpg" alt="Chemical Fertilizer">
+                <h3>Chemical Fertilizer</h3>
+                <p>Price: $15</p>
+                <button onclick="addToCart('Chemical Fertilizer', 15)">Add to Cart</button>
+            </div>
+            <!-- Add more products here -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 GreenGrow Fertilizer Shop. All rights reserved.</p>
+    </footer>
+
+    <script src="index.js"></script>
+</body>
+</html>

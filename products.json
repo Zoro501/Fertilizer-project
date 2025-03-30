@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" UREA FERTILIZER",
+        "price": 260,
+        "image": "images/Urea.jpg"
+    },
+    {
+        "id": 2,
+        "name":"Organic Compost",
+        "price": 550,
+        "image": "images/Compost.jpg"
+    },
+    {
+        "id": 3,
+        "name":"Nitrogen Booster",
+        "price": 890,
+        "image": "images/Nitrogen booster.jpg"
+    },
+    {
+        "id": 4,
+        "name":" NPK(17,17,17)",
+        "price": 1200,
+        "image": "images/NPK(17,17,17).jpg"
+    },
+    {
+        "id": 5,
+        "name":" NPK(19,19,19)",
+        "price": 1300,
+        "image": "images/NPK(19,19,19).jpg"
+    },
+    {
+        "id": 6,
+        "name":" Sprout Growth",
+        "price": 620,
+        "image": "images/sprout Growth.jpg"
+    },
+    {
+        "id": 7,
+        "name":" Pesticides",
+        "price": 400,
+        "image": "images/ddt-pesticides.jpg"
+    },
+    {
+        "id": 8,
+        "name":" Insecticides",
+        "price": 400,
+        "image": "images/insecticides.jpg"
+    }
+
+]
